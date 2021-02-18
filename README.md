@@ -9,3 +9,12 @@ This project is to try multiple approaches to sovle Hamiltonian cycle problem (H
 - The first approach: Define HCP as QUBO and apply Quantum optimization algorithm.
 
 - The second approach: Apply Grover's iteration to solve HCP.
+
+--------------
+#### Contributers
+
+- @ho0-kim
+- @kjwcoo
+- @barrelo89
+- @dongsin-kim
+- @Grace-11
