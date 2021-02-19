@@ -16,5 +16,5 @@ This project is to try multiple approaches to sovle Hamiltonian cycle problem (H
 - @ho0-kim
 - @kjwcoo
 - @barrelo89
-- @dongsin-kim
+- @dongsin-kim (mentor)
 - @Grace-11
